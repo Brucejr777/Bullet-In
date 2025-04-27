@@ -1,0 +1,177 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 3379px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f0f0f0; /* Optional: for contrast */
+}
+.frame-22,
+.frame-22 * {
+  box-sizing: border-box;
+}
+.frame-22 {
+  background: linear-gradient(
+    180deg,
+    rgba(159, 241, 58, 1) 0%,
+    rgba(172, 233, 31, 1) 25.999999046325684%,
+    rgba(10, 202, 0, 1) 100%
+  );
+  height: 3379px;
+  width: 1507px;
+  position: relative;
+  overflow: hidden;
+}
+.button {
+  background: linear-gradient(90deg, rgba(80, 192, 10, 1) 100%);
+  border-radius: 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  width: 794px;
+  height: 113px;
+  position: absolute;
+  left: 356px;
+  top: 80px;
+  box-shadow: 0px 4px 4px 0px rgba(255, 255, 255, 1);
+  overflow: hidden;
+}
+.state-layer {
+  padding: 10px 24px 10px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.label-text {
+  color: var(--schemes-on-primary, #ffffff);
+  text-align: center;
+  font-family: var(--label-large-font, "Roboto-Medium", sans-serif);
+  font-size: 48px;
+  line-height: var(--label-large-line-height, 20px);
+  letter-spacing: var(--label-large-tracking, 0.1px);
+  font-weight: 500;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.arrow-back {
+  width: 172px;
+  height: 148px;
+  position: absolute;
+  left: 0px;
+  top: 28px;
+  overflow: visible;
+}
+.bsu-3-2 {
+  width: 1506.67px;
+  height: 1130px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 527px;
+  object-fit: cover;
+  aspect-ratio: 1506.67/1130;
+}
+.pagination-next {
+  background: #ffffff;
+  border-radius: var(--var-sds-size-radius-200, 8px);
+  padding: var(--var-sds-size-space-200, 8px)
+    var(--var-sds-size-space-300, 12px) var(--var-sds-size-space-200, 8px)
+    var(--var-sds-size-space-300, 12px);
+  display: flex;
+  flex-direction: row;
+  gap: var(--var-sds-size-space-200, 8px);
+  align-items: center;
+  justify-content: center;
+  width: 217.95px;
+  height: 98px;
+  position: absolute;
+  left: 1219px;
+  top: 2472px;
+  aspect-ratio: 217.95/98;
+}
+.next {
+  color: var(--var-sds-color-text-neutral-default, #303030);
+  text-align: left;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Black",
+    sans-serif
+  );
+  font-size: 40px;
+  line-height: 100%;
+  font-weight: 900;
+  position: relative;
+}
+.arrow-right-circle {
+  align-self: stretch;
+  flex: 1;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.extended-fab {
+  background: var(--schemes-surface-container-high, #ece6f0);
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 1507px;
+  height: 215px;
+  min-width: 80px;
+  position: absolute;
+  left: 0px;
+  top: 3164px;
+  box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.3),
+    inset 0px 4px 8px 3px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+}
+.state-layer2 {
+  padding: 16px 20px 16px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.label-text2 {
+  color: #189620;
+  text-align: center;
+  font-family: var(
+    --var-sds-typography-title-hero-font-family,
+    "Inter-Bold",
+    sans-serif
+  );
+  font-size: 40px;
+  line-height: 120%;
+  letter-spacing: -0.03em;
+  font-weight: 700;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+._2025-bullet-in-by-figma {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 28px;
+  font-weight: 600;
+  position: absolute;
+  left: 539px;
+  top: 3317px;
+}

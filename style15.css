@@ -1,0 +1,228 @@
+.frame-15,
+.frame-15 * {
+  box-sizing: border-box;
+}
+.frame-15 {
+  background: linear-gradient(
+    180deg,
+    rgba(207, 39, 39, 1) 0%,
+    rgba(205, 35, 35, 1) 25.999999046325684%,
+    rgba(82, 8, 0, 1) 100%
+  );
+  height: 3379px;
+  position: relative;
+  overflow-y: auto;
+}
+.rectangle-1 {
+  background: #ffa6a6;
+  border-radius: 16px;
+  width: 1358px;
+  height: 832px;
+  position: absolute;
+  left: calc(50% - 659.5px);
+  top: 281px;
+}
+.button {
+  background: #ac1919;
+  border-radius: 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  width: 794px;
+  height: 113px;
+  position: absolute;
+  left: 356px;
+  top: 80px;
+  box-shadow: 0px 4px 4px 0px rgba(255, 255, 255, 1);
+  overflow: hidden;
+}
+.state-layer {
+  padding: 10px 24px 10px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.label-text {
+  color: var(--schemes-on-primary, #ffffff);
+  text-align: center;
+  font-family: var(--label-large-font, "Roboto-Medium", sans-serif);
+  font-size: 48px;
+  line-height: var(--label-large-line-height, 20px);
+  letter-spacing: var(--label-large-tracking, 0.1px);
+  font-weight: 500;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.arrow-back {
+  width: 172px;
+  height: 148px;
+  position: absolute;
+  left: 0px;
+  top: 28px;
+  overflow: visible;
+}
+.highlights-of-day-3-4-visit-of-the-odisee-university-college-aalst-campus-belgium-department-of-health-sciences-nursing-program-head-international-relations-coordinator-and-the-clinical-coordinator-16-23-february-2025-day-3-visit-to-baguio-general-hospital-and-medical-center-benguet-general-hospital-and-cordillera-hospital-of-the-divine-grace-day-4-visit-to-municipal-health-services-and-mayors-office-of-tublay-benguet {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 48px;
+  line-height: 130%;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 621.5px);
+  top: 320px;
+  width: 1255px;
+  height: 754px;
+}
+.n-1-2 {
+  border-radius: 20px;
+  width: 1287.75px;
+  height: 1717px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 1257px;
+  object-fit: cover;
+  aspect-ratio: 1287.75/1717;
+}
+.n-2-2 {
+  border-radius: 20px;
+  width: 1288px;
+  height: 966px;
+  position: absolute;
+  left: calc(50% - 637.5px);
+  top: 3035px;
+  object-fit: cover;
+  aspect-ratio: 4/3;
+}
+._480820573-1168509711948535-4117708373115354675-n-3 {
+  border-radius: 20px;
+  width: 1288px;
+  height: 966px;
+  position: absolute;
+  left: calc(50% - 637.5px);
+  top: 4062px;
+  object-fit: cover;
+  aspect-ratio: 4/3;
+}
+._480673758-1168509841948522-370123089500614881-n-3 {
+  border-radius: 20px;
+  width: 1288px;
+  height: 966px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 5089px;
+  object-fit: cover;
+  aspect-ratio: 4/3;
+}
+.n-5-2 {
+  border-radius: 20px;
+  width: 1288px;
+  height: 966px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 6116px;
+  object-fit: cover;
+  aspect-ratio: 4/3;
+}
+._480790632-1168509795281860-566047326309703268-n-3 {
+  border-radius: 20px;
+  width: 1287.75px;
+  height: 1717px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 7143px;
+  object-fit: cover;
+  aspect-ratio: 1287.75/1717;
+}
+.n-7-2 {
+  border-radius: 20px;
+  width: 1287.75px;
+  height: 1717px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 8921px;
+  object-fit: cover;
+  aspect-ratio: 1287.75/1717;
+}
+.n-8-2 {
+  border-radius: 20px;
+  width: 1288px;
+  height: 966px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 10699px;
+  object-fit: cover;
+  aspect-ratio: 4/3;
+}
+.n-9-2 {
+  border-radius: 20px;
+  width: 1288px;
+  height: 966px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 11726px;
+  object-fit: cover;
+  aspect-ratio: 4/3;
+}
+.n-10-2 {
+  border-radius: 20px;
+  width: 1288px;
+  height: 966px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 12753px;
+  object-fit: cover;
+  aspect-ratio: 4/3;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-1 {
+  background: rgba(30, 30, 30, 0.65);
+  border-radius: 50%;
+  opacity: 0.75;
+  width: 160px;
+  height: 160px;
+  position: absolute;
+  left: 663px;
+  top: 14008px;
+}
+.arrow-up {
+  width: 137px;
+  height: 166px;
+  position: absolute;
+  left: 674px;
+  top: 14005px;
+  overflow: visible;
+}
+.back-to-top {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 64px;
+  line-height: 100%;
+  font-weight: 900;
+  position: absolute;
+  left: calc(50% - 197.5px);
+  top: 14171px;
+  width: 371px;
+  height: 73px;
+}
